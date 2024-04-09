@@ -6,6 +6,10 @@ Targeted toward Digilent Basys3. Make sure to install the [board files](https://
 
 Tested on Windows 11.
 
+
+Documentation Statement:
+
+C3C Ethan Chapman helped explain to me basis of the what the testbench should try and test and I implemented it based on what he explained using the waveform. 
 ---
 
 ## Build the project
